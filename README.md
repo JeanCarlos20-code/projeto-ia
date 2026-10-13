@@ -1,4 +1,4 @@
-# Desafio-Tecnico-Nano-Incub
+# Projeto IA
 
 Administradores entram em `/login` com e-mail e senha. As rotas do painel, incluindo `/reservations`, exigem uma sessão autenticada.
 
